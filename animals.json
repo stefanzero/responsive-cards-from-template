@@ -1,0 +1,136 @@
+{
+  "articles": [
+    {
+      "class": "tigers",
+      "h2": "Tigers",
+      "img": {
+        "src": "./assets/tigers-768x432.jpg",
+        "alt": "Tiger"
+      },
+      "sections": {
+        "population": {
+          "h3": "Population",
+          "p": "The global wild tiger population is estimated to be around 5,600 to 5,900 individuals. India holds the largest population, with India's population at over 3,600, which accounts for about 75% of the world's total tigers."
+        },
+        "ecology": {
+          "h3": "Habitat and Ecology",
+          "p": "Extant Tiger subpopulations occur in the tropical, subtropical and temperate forests of South and Southeast Asia and the temperate evergreen forests of Palaearctic realms in Russia and China. Tigers are habitat generalists, and have adapted to diverse habitats inclusive of equatorial rainforests and mangroves in India and Sumatra, semi-arid habitats of western India, Himalayan deciduous and evergreen forests up to elevations of about 4,500 m and temperate forests in northeast Russia and China."
+        },
+        "threats": {
+          "h3": "Threats",
+          "p": "Hunting of tigers and their prey has been the main driver of Tiger population declines. Poaching for illegal trade in high-value Tiger products including skins, bones, meat, and tonics, is a primary threat to tigers, which, along with prey depletion, has led to their recent disappearance from broad areas of otherwise suitable habitat and continues at sustainable rates."
+        }
+      }
+    },
+    {
+      "class": "polar_bears",
+      "h2": "Polar Bears",
+      "img": {
+        "src": "./assets/polar-bear-1280x1280.jpg",
+        "alt": "Polar Bears"
+      },
+      "sections": {
+        "population": {
+          "h3": "Population",
+          "p": "The most widely cited recent estimate is around 26,000 bears, though gathering precise data across their remote Arctic range is challenging, and some population estimates are data deficient."
+        },
+        "ecology": {
+          "h3": "Habitat and Ecology",
+          "p": "Polar bears inhabit the circumpolar Arctic and portions of the subarctic on sea-ice and along coastal areas and islands. Although they sometimes range into international waters, polar bears generally occur in areas under the jurisdiction of five countries: Canada, Greenland (Denmark), Norway, Russia, and the United States (Alaska)."
+        },
+        "threats": {
+          "h3": "Threats",
+          "p": "Polar bears face numerous threats, with climate change and its impact on sea ice being the most significant. Other major threats include human-caused mortality, mineral and energy resource exploration and development, conflicts, shipping, tourism, and diseases."
+        }
+      }
+    },
+    {
+      "class": "asian_elephants",
+      "h2": "Asian Elephants",
+      "img": {
+        "src": "./assets/asian-elephant-1200x627.jpg",
+        "alt": "Asian Elephant"
+      },
+      "sections": {
+        "population": {
+          "h3": "Population",
+          "p": "As of 2018, population size estimates collated across all range countries, suggest a global Asian Elephant abundance of 48,323–51,680 individuals in the wild."
+        },
+        "ecology": {
+          "h3": "Habitat and Ecology",
+          "p": "Asian Elephants inhabit grassland, tropical evergreen forest, semi-evergreen forest, deciduous forest, dry deciduous forested and dry thorn forest, in addition to cultivated and secondary forests or scrublands. They are seen from sea level to over 3,000 m asl in the Eastern Himalaya (Choudhury 1999)."
+        },
+        "threats": {
+          "h3": "Threats",
+          "p": "The challenges confronted elephant conservation in most elephant Range States are habitat loss and fragmentation, human–elephant conflict, and poaching and illegal trade of elephants. As elephant habitats decrease and get more fragmented, the interaction between humans and elephants increase, leading to intense conflicts between people and elephants, causing fatalities on both sides besides damage to human property."
+        }
+      }
+    },
+    {
+      "class": "blue-throated_Macaw",
+      "h2": "Blue-throated Macaw",
+      "img": {
+        "src": "./assets/blue-throated-macaw-1920x1300.jpg",
+        "alt": "Blue-throated Macaw"
+      },
+      "sections": {
+        "population": {
+          "h3": "Population",
+          "p": "The wild population of blue-throated macaws is extremely low, estimated between 300 and 400 individuals, though some recent studies suggest the numbers could be slightly higher (around 420-480)"
+        },
+        "ecology": {
+          "h3": "Habitat and Ecology",
+          "p": "The blue-throated macaw lives in the Llano de Moxos of the Beni Department of Bolivia, nesting in 'Islas' (islands) of palm trees that dot the level plains. This ecosystem is characterized by a mix of grasslands, marshes, forest islands, and gallery forests along waterways. It is not a forest-dwelling bird. This species is one of the rarest in the world."
+        },
+        "threats": {
+          "h3": "Threats",
+          "p": "The species was severely threatened in the past by legal and illegal exploitation for the national and international cage-bird trade. There are fears that inbreeding within an increasingly fragmented population is resulting in reduced fertility."
+        }
+      }
+    },
+    {
+      "class": "arctic_wolves",
+      "h2": "Arctic Wolves",
+      "img": {
+        "src": "./assets/arctic-wolves.webp",
+        "alt": ""
+      },
+      "sections": {
+        "population": {
+          "h3": "Population",
+          "p": "The global population of Arctic wolves is estimated to be around 200,000 individuals. This population is scattered across the Arctic regions of North America and Greenland."
+        },
+        "ecology": {
+          "h3": "Habitat and Ecology",
+          "p": "Arctic wolves live in the Arctic tundra, an area that includes the northern parts of North America and Greenland. Their ecology is defined by their role as apex predators in a harsh environment, hunting prey like musk oxen, arctic hares, and caribou. They are adapted to extreme cold with thick, white fur for camouflage and warmth and minimal contact with humans due to their isolation."
+        },
+        "threats": {
+          "h3": "Threats",
+          "p": "The main threats to Arctic wolves are climate change and industrial development, which disrupt their food supply and habitat. Climate change impacts their prey like musk oxen and Arctic hares, while industrial activities such as mining, roads, and pipelines encroach on their territory. Unlike other wolves, they are not threatened by human hunting due to their remote habitat."
+        }
+      }
+    },
+    {
+      "class": "blue-footed_booby",
+      "h2": "Blue-footed Booby",
+      "img": {
+        "src": "./assets/booby.webp",
+        "alt": ""
+      },
+      "sections": {
+        "population": {
+          "h3": "Population",
+          "p": "The global blue-footed booby population is estimated to be over 90,000 mature individuals, but the population in the Galapagos Islands, which holds the largest breeding population, has declined significantly from about 20,000 in the 1960s to around 6,400 today."
+        },
+        "ecology": {
+          "h3": "Habitat and Ecology",
+          "p": "Blue-footed Boobies are seabirds that inhabit the eastern Pacific Ocean, nesting on rocky coastal areas and islands while foraging in coastal and open ocean waters for fish like anchovies and sardines. Their habitat is defined by their need for land for nesting and sea for feeding, particularly in areas with productive upwelling zones, such as the Galapagos Islands, the Gulf of California, and the coast of Peru. Their ecology includes spectacular plunge-diving for prey, a unique foot-lifting courtship dance, and ground nests often marked with guano. "
+        },
+        "threats": {
+          "h3": "Threats",
+          "p": "The main threats to blue-footed boobies are a decline in their food sources (especially sardines) due to overfishing and climate change, which disrupts their breeding cycle, and plastic pollution. While they have few predators, their population has significantly declined in recent years, particularly in the Galapagos, due to these environmental pressures."
+        }
+      }
+    }
+  ]
+}
