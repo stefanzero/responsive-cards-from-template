@@ -19,7 +19,7 @@ const fetchData = async () => {
 };
 
 const articleHTML = `
-      <article class="bg-light p-1 col-sm-12 col-md-6 col-lg-4 col-xxl-3">
+      <article class="col-sm-12 col-md-6 col-lg-4 col-xxl-3">
         <div class="grid-container">
           <div class="card-grid card p-3">
             <header class="card-header">
