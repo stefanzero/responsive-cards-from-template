@@ -1,10 +1,23 @@
-# Responsive Cards
+# Responsive Cards From Template
 
-This demonstration project illustrates how to use Bootstrap cards with columns to create responsive cards.  As the screen size changes, the number of columns changes.
+This demonstration project illustrates how to use Bootstrap cards with columns to create responsive cards. As the screen size changes, the number of columns changes.
 
 A common issue when creating responsive web pages is how to display images with different aspect ratios. Here the images are wrapped in a `<div>` with a fixed aspect ratio, and the images use the `object-fit` property to ensure the images cover the entire `<div>`.
 
 Another design hurdle is aligning content in cards. Here, a CSS grid is used to set the heights of each portion of the card.
+
+This project has these major differences from the [previous project](https://github.com/stefanzero/responsive-cards):
+
+- the cards are created dynamically using JavaScript
+- the built-in JavaScript fetch API is used to retrieve the data from a JSON file
+- the JavaScript creates an HTML Template element to generate the HTML for each card
+- a child element of each article is added before the grid, so that a CSS
+  container query can be added to set the font size based on the container width
+- using a variable font size results in the paragraphs wrapping at the same point as the column widths change with the screen size
+- the values for the grid-template-rows are also specified in em units, so the contents of
+  each section of the grid maintain the same relative height
+- the grid element for the figure is specified in units of cqw (container query width),
+  which allows the height for the figure to be set to the desired aspect ratio
 
 ## Web Tool Libraries
 
@@ -13,7 +26,7 @@ Another design hurdle is aligning content in cards. Here, a CSS grid is used to 
 
 ## Content Sources
 
-The topic of the web page is endangered species.  Images were deliberately chosen to have different aspect ratios and sizes, which commonly occurs when creating web pages.  
+The topic of the web page is endangered species. Images were deliberately chosen to have different aspect ratios and sizes, which commonly occurs when creating web pages.
 
 - [Animal Welfare Institute](https://awionline.org/content/list-endangered-species)
 - [Google](https://www.google.com)
@@ -52,7 +65,7 @@ Each card contains a `header`, `figure`, and a `section` each for `population`, 
 
 ##### CSS Grid
 
-To make the content of each card have the same height for each header, figure and section, a CSS grid is used.  The class `card-grid` was added to the `<div>` to add the property `display: grid;`.
+To make the content of each card have the same height for each header, figure and section, a CSS grid is used. The class `card-grid` was added to the `<div>` to add the property `display: grid;`.
 
 The values for the `grid-template-rows` was adjusted so there was not excess spacing. The `<header>` was first given a value a `1fr`, and then each of the following rows were adjusted to a value with enough height to fit the content.
 
