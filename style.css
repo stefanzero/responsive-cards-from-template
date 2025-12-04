@@ -1,3 +1,6 @@
+:root {
+  --max-width: 1920px;
+}
 body {
   font:
     16px Oswald,
@@ -20,7 +23,7 @@ body::before {
   z-index: -1;
 }
 main {
-  max-width: 1200px;
+  max-width: var(--max-width);
   margin: 0 auto;
 }
 h1 {
